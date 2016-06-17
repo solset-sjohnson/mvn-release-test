@@ -30,7 +30,6 @@
 				<version>2.5.1</version>
 				<configuration>
 					<scmCommentPrefix>[maven-scm] :</scmCommentPrefix>
-					<preparationGoals>clean install</preparationGoals>
 					<goals>deploy</goals>
 				</configuration>
 			</plugin>
