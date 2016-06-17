@@ -16,8 +16,8 @@
 			<url>http://aemqprodmaven01.d.epsilon.com:8081/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 		<repository>
-			<id>internal.repo</id>
-			<url>http://aemqprodmaven01.d.epsilon.com:8081/nexus/content/repositories/snapshots</url>
+			<id>internal.releases</id>
+			<url>http://aemqprodmaven01.d.epsilon.com:8081/nexus/content/repositories/releases</url>
 		</repository>
 	</distributionManagement>
 
