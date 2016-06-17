@@ -31,8 +31,7 @@
 				<configuration>
 					<scmCommentPrefix>[maven-scm] :</scmCommentPrefix>
 					<preparationGoals>clean install</preparationGoals>
-					<goals>install</goals>
-					<releaseProfiles>release</releaseProfiles>
+					<goals>deploy</goals>
 				</configuration>
 			</plugin>
 		</plugins>
