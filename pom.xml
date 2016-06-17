@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>parent</artifactId>
-	<version>0.5-SNAPSHOT</version>
+	<version>0.5</version>
 	<packaging>pom</packaging>
 
 	<scm>
 		<connection>scm:git:git@github.com:solset-sjohnson/mvn-release-test.git</connection>
-		<tag>HEAD</tag>
+		<tag>mvn-test-0.5</tag>
 	</scm>
 
 	<distributionManagement>
