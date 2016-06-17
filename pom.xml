@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>parent</artifactId>
-	<version>0.5-SNAPSHOT</version>
+	<version>0.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<scm>
@@ -16,8 +16,8 @@
 			<url>http://aemqprodmaven01.d.epsilon.com:8081/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 		<repository>
-			<id>internal.releases</id>
-			<url>http://aemqprodmaven01.d.epsilon.com:8081/nexus/content/repositories/releases</url>
+			<id>internal.repo</id>
+			<url>http://aemqprodmaven01.d.epsilon.com:8081/nexus/content/repositories/snapshots</url>
 		</repository>
 	</distributionManagement>
 
